@@ -8,3 +8,9 @@ No Local Installation: Run LLAMA 3.2 on the cloud using GraqCloud—no need to i
 Streamlit-Based UI: A clean and interactive web app interface for post generation.
 LangChain Integration: Manages communication with the Gen AI model for smooth and efficient workflows.
 Data Processing with Pandas: Inputs and outputs are handled efficiently, ensuring scalability and reliability.
+# Tech Stack
+Gen AI LLAMA 3.2
+Streamlit
+LangChain
+GraqCloud
+Pandas
